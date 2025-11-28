@@ -38,7 +38,7 @@ I'm a passionate developer focused on building robust **Web Applications**, **Mo
 
 ## 📫 **Reach Me**
 - ✉️ Email: **info@omerozdemir.tr**
-- 🌐 Portfolio: *omerozdemir.tr*
+- 🌐 Portfolio: **omerozdemir.tr**
 
 ---
 
