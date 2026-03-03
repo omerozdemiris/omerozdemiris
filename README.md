@@ -1,4 +1,4 @@
-`npx omerozdemir`
+### 🚀 Try it: `npx omerozdemir`
 
 ## 👋 Hi, I'm **Ömer Özdemir**
 ### 🚀 *Full Stack Web & Mobile Developer*
