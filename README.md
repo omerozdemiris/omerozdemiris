@@ -1,4 +1,5 @@
-npx omerozdemir
+```bash
+npx fka
 
 # 👋 Hi, I'm **Ömer Özdemir**
 ### 🚀 *Full Stack Web & Mobile Developer*
