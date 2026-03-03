@@ -1,6 +1,4 @@
-<span style="background-color:#f3f3f3; padding:3px; border-radius:4px; color:black;">
-npx omerozdemir
-</span>
+`npx omerozdemir`
 
 # 👋 Hi, I'm **Ömer Özdemir**
 ### 🚀 *Full Stack Web & Mobile Developer*
