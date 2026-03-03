@@ -1,6 +1,6 @@
 `npx omerozdemir`
 
-# 👋 Hi, I'm **Ömer Özdemir**
+## 👋 Hi, I'm **Ömer Özdemir**
 ### 🚀 *Full Stack Web & Mobile Developer*
 
 
