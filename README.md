@@ -1,4 +1,3 @@
-bash
 npx omerozdemir
 
 # 👋 Hi, I'm **Ömer Özdemir**
